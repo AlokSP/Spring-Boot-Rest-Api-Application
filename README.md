@@ -1,2 +1,2 @@
-# Spring-Boot_Rest_ApiApplication
-Fundamentals of REST API in spring boot
+# Spring-Boot-Rest-Api-Application
+Fundamentals of REST APIs in Spring Boot
